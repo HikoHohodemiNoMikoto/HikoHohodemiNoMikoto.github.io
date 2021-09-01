@@ -17,18 +17,15 @@ body {
     height: 666px;
     margin: auto;
     align-content: center;
-
 }
 .header {
     width: 750px;
     margin: auto;
 }
 .h1 {
-    font-family: "Minion Pro Semibold";
+    font-family: "Minion Pro Semibold", sans-serif;
     font-size: 35px;
     margin-top: 56px;
-
-
 }
 .h2 {
     font-weight: normal;
@@ -48,7 +45,6 @@ body {
 }
 .product2 {
     float: left;
-    max-width: 33.33%;
     padding-left: 42px;
 
 }
@@ -62,7 +58,7 @@ body {
     padding-bottom: 15px;
 }
 .priceProduct {
-    font-family: Arial;
+    font-family: Arial, sans-serif;
     font-weight: bold;
 }
 .price {
