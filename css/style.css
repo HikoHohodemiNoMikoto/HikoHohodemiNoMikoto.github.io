@@ -36,7 +36,7 @@ body {
 
 }
 .box-Product {
-
+    margin: 0 -21px;
 }
 .product {
     float: left;
@@ -50,7 +50,7 @@ body {
 }
 .price-Product {
     font-family: Arial, sans-serif;
-    font-weight: bold;
+    font-weight: normal;
 }
 .price {
     font-size: 22px;
@@ -58,7 +58,7 @@ body {
 }
 .currency {
     font-size: 18px;
-padding-right: 14px;
+    padding-right: 19px;
 }
 .button {
     background-color: #ff0000;
