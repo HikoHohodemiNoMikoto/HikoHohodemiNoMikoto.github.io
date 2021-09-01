@@ -9,7 +9,6 @@ body {
     color:#6d6d6d;
     text-align: center;
     margin: 0;
-    height: 100%;
     align-items: center;
 }
 .wrapper {
@@ -17,6 +16,7 @@ body {
     height: 666px;
     margin: auto;
     align-content: center;
+
 }
 .header {
     width: 750px;
@@ -41,7 +41,7 @@ body {
 .product {
     float: left;
     max-width: 33.33%;
-    padding-left: 42px;
+    padding: 0 21px 0 21px;
 }
 .name-Product {
     font-size: 18px;
