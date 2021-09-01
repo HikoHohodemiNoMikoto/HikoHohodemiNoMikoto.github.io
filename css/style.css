@@ -35,29 +35,21 @@ body {
     margin-bottom: 54px;
 
 }
-.boxProduct {
+.box-Product {
 
 }
-.product1 {
+.product {
     float: left;
     max-width: 33.33%;
-
-}
-.product2 {
-    float: left;
     padding-left: 42px;
 
 }
-.product3 {
-    float: right;
-    max-width: 33.33%;
-}
-.nameProduct {
+.name-Product {
     font-size: 18px;
     padding-top: 15px;
     padding-bottom: 15px;
 }
-.priceProduct {
+.price-Product {
     font-family: Arial, sans-serif;
     font-weight: bold;
 }
